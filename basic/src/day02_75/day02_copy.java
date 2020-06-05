@@ -1,4 +1,4 @@
-package day02;
+package day02_75;
 
 /**
  * ClassName:day02_3
